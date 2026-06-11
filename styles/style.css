@@ -157,3 +157,16 @@
   margin: 0;
   color: #ffffff;
 }
+.card__content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.card__title {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 700;
+  margin: 0;
+}
