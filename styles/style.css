@@ -271,8 +271,8 @@ max-width: 100%;
 }
 
 .person_name_mitchell {
-  left: 82px;
-  bottom: 142px;
+  left: 142px;
+  bottom: 82px;
   /* Use os valores corretos das propriedades top/right/bottom/left para posicionar o elemento */
 }
 
